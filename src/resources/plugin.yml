@@ -1,0 +1,8 @@
+main: network.starplum.Neptune
+name: Neptune
+version: 1.0
+
+author: iDevMC
+website: https://starplum.network
+description: §8* §fUtility little api to make coding a little less annoying
+prefix: (Starplum)
